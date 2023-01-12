@@ -4,4 +4,4 @@
 
 [![syfqy's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syfqy)](https://github.com/syfqy/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syfqy)](https://github.com/syfqy/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=syfqy)](https://github.com/syfqy/github-readme-stats)
