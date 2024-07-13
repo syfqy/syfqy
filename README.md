@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Aspiring Software Engineer for one simple reason - life is hard, let's build stuff to make it a little easier for everyone.
+- 🔭 Software Engineer because life is hard and I build stuff to make it a little easier for everyone.
 
 <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syfqy">
   <img align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syfqy&theme=transparentk&show_icons=true&ring_color=fa7a18&icon_color=fa7a18" />
